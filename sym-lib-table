@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name NFC_18659_battery_holder)(type Legacy)(uri ${KIPRJMOD}/lib_sch/NFC_18659_battery_holder.lib)(options "")(descr ""))
+  (lib (name NFC_hatch)(type Legacy)(uri ${KIPRJMOD}/lib_sch/NFC_hatch.lib)(options "")(descr ""))
+)
