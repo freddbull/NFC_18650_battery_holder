@@ -63,7 +63,7 @@
     (visible_elements FFFFFF7F)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
-      (usegerberextensions false)
+      (usegerberextensions true)
       (usegerberattributes false)
       (usegerberadvancedattributes false)
       (creategerberjobfile false)
@@ -85,9 +85,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory "gerber/"))
   )
 
   (net 0 "")
@@ -635,7 +635,7 @@
   (segment (start 74.75 56.5) (end 74.75 57.475) (width 0.25) (layer F.Cu) (net 12))
   (segment (start 62.625 56.365) (end 62.625 58.905) (width 0.25) (layer F.Cu) (net 12))
 
-  (zone (net 6) (net_name /Sheet5FAF080E/BATT_RET) (layer B.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 6) (net_name /Sheet5FAF080E/BATT_RET) (layer B.Cu) (tstamp 5FB072C3) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -705,7 +705,7 @@
       )
     )
   )
-  (zone (net 6) (net_name /Sheet5FAF080E/BATT_RET) (layer F.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 6) (net_name /Sheet5FAF080E/BATT_RET) (layer F.Cu) (tstamp 5FB072C0) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))

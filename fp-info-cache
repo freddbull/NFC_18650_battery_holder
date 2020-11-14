@@ -1,4 +1,4 @@
-18628387680545192
+18644439239554410
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -57476,6 +57476,76 @@ mounting hole 8.4mm m8
 0
 9
 1
+NFC_hatch_tmp
+18650_holder_SMD
+
+
+0
+10
+2
+NFC_hatch_tmp
+Coilcraft_MSS1048_Power_Inductors
+
+
+0
+2
+2
+NFC_hatch_tmp
+LTC3112-HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.75x3.43mm_ThermalVias_HandSolder
+HTSSOP, 20 Pin (http://www.ti.com/lit/ds/symlink/tlc5971.pdf#page=37&zoom=160,-90,3), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+32
+21
+NFC_hatch_tmp
+PinHeader_2x28_P2.54mm_Vertical_1ab
+Through hole straight pin header, 2x28, 2.54mm pitch, double rows
+Through hole pin header THT 2x28 2.54mm double row
+0
+56
+56
+NFC_hatch_tmp
+PinSocket_2x28_P2.54mm_Vertical
+Through hole straight socket strip, 2x28, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x28 2.54mm double row
+0
+56
+56
+NFC_hatch_tmp
+PinSocket_2x28_P2.54mm_Vertical_edited
+Through hole straight socket strip, 2x28, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x28 2.54mm double row
+0
+56
+56
+NFC_hatch_tmp
+PinSocket_2x28_P2.54mm_Vertical_left
+Through hole straight socket strip, 2x28, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x28 2.54mm double row
+0
+56
+56
+NFC_hatch_tmp
+PinSocket_2x28_P2.54mm_Vertical_right
+Through hole straight socket strip, 2x28, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x28 2.54mm double row
+0
+56
+56
+NFC_hatch_tmp
+TB006-508-02BE
+
+
+0
+2
+2
+NFC_hatch_tmp
+WURTH_7443251000
+
+
+0
+2
+2
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
