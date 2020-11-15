@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name NFC_hatch_tmp)(type KiCad)(uri ${KIPRJMOD}/lib_pf.pretty/NFC_hatch_tmp.pretty)(options "")(descr ""))
+  (lib (name NFC_18650_battery_holder)(type KiCad)(uri ${KIPRJMOD}/lib_pf.pretty/NFC_18650_battery_holder.pretty)(options "")(descr ""))
 )

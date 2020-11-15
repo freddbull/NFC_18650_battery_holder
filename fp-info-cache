@@ -1,4 +1,4 @@
-18644439239554410
+18647650192702841
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -57476,12 +57476,26 @@ mounting hole 8.4mm m8
 0
 9
 1
-NFC_hatch_tmp
-18650_holder_SMD
+NFC_18650_battery_holder
+Antenna_4.1uH
 
 
 0
-10
+2
+2
+NFC_18650_battery_holder
+NFC_ANTENNA_4.1uH
+
+
+0
+0
+0
+NFC_hatch_tmp
+18650_holder_SMD_65mm
+
+
+0
+6
 2
 NFC_hatch_tmp
 Coilcraft_MSS1048_Power_Inductors
