@@ -19,7 +19,7 @@ U 1 1 5FAE3919
 P 5300 2750
 F 0 "AE1" H 5530 2764 50  0000 L CNN
 F 1 "Antenna_Loop" H 5530 2673 50  0000 L CNN
-F 2 "NFC_18650_battery_holder:Antenna_4.1uH" H 5300 2750 50  0001 C CNN
+F 2 "NFC_18650_battery_holder:Antenna_4.58uH" H 5300 2750 50  0001 C CNN
 F 3 "~" H 5300 2750 50  0001 C CNN
 	1    5300 2750
 	1    0    0    -1  
