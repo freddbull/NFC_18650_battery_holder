@@ -72,7 +72,7 @@ Connection ~ 4800 3050
 Wire Wire Line
 	4800 3050 4800 2950
 Text Notes 5950 3750 0    50   ~ 0
-1210
+0603
 Text Notes 5300 3750 0    50   ~ 0
 0603
 Text Notes 5050 3300 0    50   ~ 0
