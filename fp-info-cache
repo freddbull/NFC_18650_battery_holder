@@ -1,4 +1,4 @@
-18647650812162766
+18647650813041608
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -57477,19 +57477,19 @@ mounting hole 8.4mm m8
 9
 1
 NFC_18650_battery_holder
-Antenna_4.1uH
-
-
+Antenna_4.10uH
+A NFC antenna tuned for 13.56MHz
+Antenna
 0
 2
 2
 NFC_18650_battery_holder
-NFC_ANTENNA_4.1uH
-
-
+Antenna_4.32uH
+A NFC antenna tuned for 13.56MHz
+Antenna
 0
-0
-0
+2
+2
 NFC_hatch_tmp
 18650_holder_SMD_65mm
 
